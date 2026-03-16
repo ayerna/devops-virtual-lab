@@ -1,0 +1,23 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# AWS
+*.pem
+.aws/
+
+# downloads / binaries
+*.zip
+*.tar
+*.gz
+*.deb
+*.rpm
+
+# docker
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
